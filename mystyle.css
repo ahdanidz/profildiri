@@ -1,0 +1,29 @@
+body {
+  background-color: #3498DB;
+  font-family: OCR A Std, monospace;
+  font-size:17px;
+}
+
+hr {
+	border-style: none;
+	border-top-style: double;
+	border-color: black;
+	border-width: 5px;
+}
+
+.satu {
+	background-color: #F7DC6F;
+	font-family: verdana;
+	font-size:17px;
+}
+
+.dua{
+	background-color: #ABEBC6;
+	font-family: Comic Sans MS;
+	font-size: 16px;
+}
+#aidi{
+	background-color: #EDBB99;
+	font-family: Gill Sans, sans-serif;
+	font-size: 16px;
+}
